@@ -1,0 +1,18 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "ein npm beispiel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dci",
+    "beispiel"
+  ],
+  "author": "niels schmidt",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
